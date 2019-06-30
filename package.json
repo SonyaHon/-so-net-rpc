@@ -1,0 +1,25 @@
+{
+  "name": "@so-net/rpc",
+  "version": "1.0.0",
+  "description": "SocketIO based rpc with customized middlewares",
+  "main": "rpc-node",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonyaHon/-so-net-rpc.git"
+  },
+  "keywords": [
+    "rpc",
+    "so-net",
+    "socketio",
+    "ws"
+  ],
+  "author": "SonyaHon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonyaHon/-so-net-rpc/issues"
+  },
+  "homepage": "https://github.com/SonyaHon/-so-net-rpc#readme"
+}
