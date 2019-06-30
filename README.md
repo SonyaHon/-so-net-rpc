@@ -85,3 +85,4 @@ You can use any implementation of sessions for socket.io and/or express
 * Add all middlewares (50% done)
 * E2E crypto via configuration
 * Set of ready to use middlewares (like logger, etc)
+* REST API creator express middleware 
